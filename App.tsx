@@ -142,7 +142,7 @@ const App: React.FC = () => {
     <div className="min-h-screen font-sans text-gray-800">
       <header className="bg-white shadow-sm bg-purple-600">
         <div className="container mx-auto px-6 py-4">
-          <h1 className="text-3xl font-bold text-#fff-900">Chaotic Resume Builder</h1>
+          <h1 className="text-3xl font-bold text-#fff-900">Cosmic Resume Builder</h1>
           <p className="text-#fff-600 mt-1">Fill in your details and let my tool assist you in crafting the perfect resume.</p>
         </div>
       </header>
